@@ -1,0 +1,4 @@
+User the num pad to move in the game;
+esc key to exit;
+backspace to restart the game;
+space to pose the game;
