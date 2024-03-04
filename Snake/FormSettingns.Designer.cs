@@ -1,5 +1,5 @@
 ﻿
-namespace Test
+namespace SnakeGame
 {
     partial class FormSettingns
     {

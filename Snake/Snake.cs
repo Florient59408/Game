@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 
-namespace Test
+namespace SnakeGame
 {
     enum Directions
     {

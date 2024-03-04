@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Collections;
 using System.Windows.Forms;
 
-namespace Test
+namespace SnakeGame
 {
     class Input
     {

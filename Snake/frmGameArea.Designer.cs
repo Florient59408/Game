@@ -1,5 +1,5 @@
 ﻿
-namespace Test
+namespace SnakeGame
 {
     partial class frmGameArea
     {
@@ -124,7 +124,7 @@ namespace Test
             this.btnReset.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(152)))), ((int)(((byte)(0)))));
             this.btnReset.FlatAppearance.BorderSize = 0;
             this.btnReset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReset.Image = global::Test.Properties.Resources.reset_48px;
+            this.btnReset.Image = global::SnakeGame.Properties.Resources.reset_48px;
             this.btnReset.Location = new System.Drawing.Point(3, 153);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(81, 56);
@@ -139,7 +139,7 @@ namespace Test
             this.btnExit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(152)))), ((int)(((byte)(0)))));
             this.btnExit.FlatAppearance.BorderSize = 0;
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnExit.Image = global::Test.Properties.Resources.sign_out_48px;
+            this.btnExit.Image = global::SnakeGame.Properties.Resources.sign_out_48px;
             this.btnExit.Location = new System.Drawing.Point(3, 277);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(81, 56);
@@ -155,7 +155,7 @@ namespace Test
             this.btnPause.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(152)))), ((int)(((byte)(0)))));
             this.btnPause.FlatAppearance.BorderSize = 0;
             this.btnPause.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPause.Image = global::Test.Properties.Resources.pause_48px;
+            this.btnPause.Image = global::SnakeGame.Properties.Resources.pause_48px;
             this.btnPause.Location = new System.Drawing.Point(4, 36);
             this.btnPause.Name = "btnPause";
             this.btnPause.Size = new System.Drawing.Size(81, 56);

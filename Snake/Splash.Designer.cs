@@ -1,5 +1,5 @@
 ﻿
-namespace Test
+namespace SnakeGame
 {
     partial class Splash
     {
@@ -45,7 +45,7 @@ namespace Test
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::Test.Properties.Resources.snake_48px;
+            this.pictureBox2.Image = global::SnakeGame.Properties.Resources.snake_48px;
             this.pictureBox2.Location = new System.Drawing.Point(146, 168);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(272, 75);
