@@ -45,13 +45,14 @@ namespace SnakeGame
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::SnakeGame.Properties.Resources.snake_48px;
+            this.pictureBox2.InitialImage = global::SnakeGame.Properties.Resources.snake_48px;
             this.pictureBox2.Location = new System.Drawing.Point(146, 168);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(272, 75);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox2.TabIndex = 4;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // label2
             // 
@@ -82,7 +83,7 @@ namespace SnakeGame
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(440, 479);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(109, 16);
+            this.label3.Size = new System.Drawing.Size(108, 16);
             this.label3.TabIndex = 6;
             this.label3.Text = "Created by MF";
             // 
