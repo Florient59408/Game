@@ -1,6 +1,6 @@
 ﻿# Description
 This is a winforms snake game build for fun 😃.
-In this game, I have include many features like:
+In this game, I have included many features like:
 - Dificulty settings
 - Highest score auto save
 - Highest score reinitilization
